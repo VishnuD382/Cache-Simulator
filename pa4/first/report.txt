@@ -1,0 +1,1 @@
+I mainly used Linkedlists to structure this code. Which acts like an array of linked lists where each array has a head node. I noticed that because of prefetcher, it increased the number of hits while reducing reads. It did so because of how we read the data after as well.
